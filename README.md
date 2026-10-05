@@ -4,6 +4,10 @@ Proyecto final de la materia **Fundamentos de Computación I**.
 
 Programa de consola en **Java** desarrollado por Santiago Pérez Cáñez. Presenta un menú interactivo con cinco ejercicios que ponen en práctica estructuras de control y arreglos.
 
+## Captura
+
+![Ejecución del programa en consola](docs/captura.png)
+
 ## Descripción general
 
 Al ejecutar el programa se muestra un menú principal desde el cual se puede elegir entre las siguientes opciones:
